@@ -1,4 +1,7 @@
-Installation: python3-opencv-numpy-imutils
+# Installation
+python3-opencv-numpy-imutils
+# Run Notebook
+In the main section, put your image path in "img_path" paramter, also can change saturation_param,saturation_param1,saturation_param2,saturation_param3
 
 # SATURATION METHODS
 ## using opencv 
